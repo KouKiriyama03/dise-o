@@ -1,0 +1,26 @@
+{
+  "name": "ejemplo",
+  "version": "1.0.0",
+  "description": "Ejemplo del diseño",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  "start":"node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KouKiriyama03/dise-o.git"
+  },
+  "keywords": [
+    "ejemplo",
+    "node",
+    "express",
+    "handlebars"
+  ],
+  "author": "Franklin Villeda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KouKiriyama03/dise-o/issues"
+  },
+  "homepage": "https://github.com/KouKiriyama03/dise-o#readme"
+}
