@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-  "start":"node ./index.js"
+    "start": "node ./index.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/KouKiriyama03/dise-o/issues"
   },
-  "homepage": "https://github.com/KouKiriyama03/dise-o#readme"
+  "homepage": "https://github.com/KouKiriyama03/dise-o#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
