@@ -3,6 +3,20 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body{
     font-family: 'Caesar Dressing', cursive;
+}
+nav{
+    background-color: #ffffff;
+    
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    width: 100%;
+    align-items: center;
+    padding: 0 40px;
+    color:#Fa7324;
 }
